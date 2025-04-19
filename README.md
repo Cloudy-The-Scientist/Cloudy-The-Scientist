@@ -16,6 +16,11 @@ This project use the object detection to identify different types of waste. The 
         * `runs/detect/train/weights/best.pt` as nano (n)
         * `runs/detect/train2/weights/best.pt` as medium (m)
         * `runs/detect/train4/weights/best.pt` as extra-large (x)
+   
+## Required Downloads (Dataset & Trained Models)
+
+**IMPORTANT:** The image dataset (`Dataset.zip`) and the pre-trained model folders (`runs/`) are too large for GitHub. You **must download** them separately from the following link:
+**Download Link:** [Cloudythescientist](https://studentmahidolac-my.sharepoint.com/:f:/g/personal/krerkkiat_wat_student_mahidol_ac_th/EtWXcdx-0zFEg2EyQHGmhrEB-8Q7xx-8nL2_r1iNGbAsMA?e=e6bpsx)
 
 ## Dataset
 
