@@ -6,7 +6,8 @@ This project use the object detection to identify different types of waste. The 
 
 ## Files in this Repository
 
-* `Cloudy The Scientist - Zero Waste.pdf`: Project presentation.
+* `07 Cloudy The Scientist - Zero Waste_Final Presentation Slides.pdf`: Project presentation.
+* `07 Cloudy The Scientist - Zero Waste_Proposal Slides.pdf`: Project Proposal Slides.
 * `Cloudy-yolov8.ipynb`: Jupyter Notebook for YOLOv8 model training/evaluation.
 * `Cloudy-supervision.ipynb`: Jupyter Notebook for running real-time waste classification using a webcam.
 * `Dataset.zip`: The image dataset used for training and validation.
