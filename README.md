@@ -22,7 +22,7 @@ This project use the object detection to identify different types of waste. The 
    
 ## Required Downloads (Dataset & Trained Models)
 
-**IMPORTANT:** The image dataset (`Dataset.zip`) and the pre-trained model folders (`runs/`) are too large for GitHub. You **must download** them separately from the following link:
+**IMPORTANT:** The image dataset (`Dataset.zip`), the pre-trained model folders (`runs/`) and PDF files are too large for GitHub. Please **download** them from the following link:
 **Download Link:** [Cloudythescientist](https://studentmahidolac-my.sharepoint.com/:f:/g/personal/krerkkiat_wat_student_mahidol_ac_th/EtWXcdx-0zFEg2EyQHGmhrEB-8Q7xx-8nL2_r1iNGbAsMA?e=e6bpsx)
 
 ## Dataset
