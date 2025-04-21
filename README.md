@@ -1,3 +1,4 @@
+![cloudy_banner](https://github.com/user-attachments/assets/2a76f2ca-01f0-42e3-b3d2-c4b1106e97c3)
 # Cloudy The Scientist - Garbage Classification (Recyclable or Non-Recyclable)
 
 ## Project Goal
