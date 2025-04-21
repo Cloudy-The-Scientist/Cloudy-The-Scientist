@@ -1,4 +1,4 @@
-# Cloudy The Scientist - Zero Waste
+# Cloudy The Scientist - Garbage Classification (Recyclable or Non-Recyclable)
 
 ## Project Goal
 
@@ -6,13 +6,14 @@ This project use the object detection to identify different types of waste. The 
 
 ## Files in this Repository
 
+* `07 Cloudy The Scientist - Zero Waste_Final Report`: Final Project Report.
 * `07 Cloudy The Scientist - Zero Waste_Final Presentation Slides.pdf`: Project presentation.
 * `07 Cloudy The Scientist - Zero Waste_Proposal Slides.pdf`: Project Proposal Slides.
 * `Cloudy-yolov8.ipynb`: Jupyter Notebook for YOLOv8 model training/evaluation.
 * `Cloudy-supervision.ipynb`: Jupyter Notebook for running real-time waste classification using a webcam.
 * `Dataset.zip`: The image dataset used for training and validation.
 * `yolov8n.pt`, `yolov8m.pt`, `yolov8x.pt`: Pre-trained YOLOv8 model weights (nano, medium, extra-large).
-* **Trained Models:**
+* **Trained Models on '/runs' folder:**
     * The trained models are located at:
         * `runs/detect/train/weights/best.pt` as nano (n)
         * `runs/detect/train2/weights/best.pt` as medium (m)
